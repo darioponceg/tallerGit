@@ -1,0 +1,8 @@
+6c8a46d - PaLucena, 59 minutes ago : feat: Improved pptx
+2d3d9be - PaLucena, 79 minutes ago : docs: created subject00 & subject03, completed subject02
+e41bdd6 - Delfina Maria Luz Parada, 3 hours ago : changed subject02
+7d1f8bf - Delfina Maria Luz Parada, 3 hours ago : added first draft of subject02.txt
+2a5a5bb - PaLucena, 8 days ago : docs: branch name
+8a3e774 - PaLucena, 8 days ago : feat: replaced pptx
+700f845 - PaLucena, 9 days ago : feat: added subject && resources
+93bf675 - Pablo Lucena González, 9 days ago : Initial commit
